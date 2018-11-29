@@ -1,0 +1,31 @@
+{
+  "name": "sampleCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^8.4.0",
+    "supertest": "^1.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeforgeek/devops-demo-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeforgeek/devops-demo-app/issues"
+  },
+  "homepage": "https://github.com/codeforgeek/devops-demo-app#readme"
+}
